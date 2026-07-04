@@ -93,3 +93,9 @@ churn_project/
 - Germany shows a noticeably higher churn rate than France or Spain.
 - A small "At-Risk High-Balance" segment represents disproportionate revenue
   risk relative to its size — a good target for proactive retention outreach.
+
+  <img width="1867" height="827" alt="image" src="https://github.com/user-attachments/assets/ecb2b5d7-82dd-447a-bde3-0535cfe1658f" />
+
+  <img width="1856" height="855" alt="image" src="https://github.com/user-attachments/assets/e10f396c-fc41-4b3a-900a-13310768c554" />
+
+
